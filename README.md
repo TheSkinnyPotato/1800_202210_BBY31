@@ -8,6 +8,7 @@
 This browser based web application to ...
 Hi I'm Wyman. This project is cool
 Hi I'm Kendrick. This Project is Fun
+Hi I'm Eric.  Looking forward to learning.
 	
 ## Technologies
 Technologies used for this project:
