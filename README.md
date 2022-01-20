@@ -7,6 +7,7 @@
 ## General Info
 This browser based web application to ...
 Hi I'm Wyman. This project is cool
+Hi I'm Kendrick. This Project is Fun
 	
 ## Technologies
 Technologies used for this project:
